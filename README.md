@@ -1,10 +1,10 @@
-## Hi Github 👋
+# Hi Github 👋
 
-I'm Somatisandro, I'm a Designer, Game enthusiast and on my way to be a Game dev.
+## I'm Somatisandro, I'm a Designer, Musician, and wanting to be a game dev
 
-🌱 I’m currently learning Computer Science and the following programming languages: C, Python, C#
-🔭 I’m currently working on an Agency, as a UX Designer
-👯 I’m looking to collaborate on Videogame projects
+🌱 I’m currently learning Computer Science and the following programming languages: C, Python, C#  
+🔭 I’m currently working on an Agency, as a UX Designer  
+👯 I’m looking to collaborate on Videogame projects  
 <!--
 **Somatisandro/Somatisandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
